@@ -9,5 +9,8 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-sql-parser": "^5.3.6"
+  }
 }
